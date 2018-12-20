@@ -1,4 +1,4 @@
-# BeirutAI
+# Beirut AI
 # Intro to self-driving cars
 Computer Vision workshop: How to train an object detection model with TensorFlow
 
