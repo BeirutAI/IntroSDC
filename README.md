@@ -19,5 +19,7 @@ To edit the code, click "COPY TO DRIVE" or **File** then **Save a copy in Driveâ
 
 Happy coding ðŸ’» <br />
 
+The workshop was recorded and uploaded to [YouTube](https://www.youtube.com/watch?v=vKisv2i-p7I)
+
 # Instructors
 The presentation and the theory part was prepared and presented by [Leon Lahoud](https://www.linkedin.com/in/leon-lahoud-812ab831/) and the technical workshop was prepared and presented by [Christophe Zoghbi](https://www.linkedin.com/in/christophezoghbi/)
